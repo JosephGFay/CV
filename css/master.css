@@ -1,25 +1,32 @@
-
+/* General Elements */
 body{
-  background-color: #001d4a;
+  background-color: #ffffff;
   font-family: 'Noto Sans', sans-serif;
+  color: #14213d;
 }
-h1,h2,h3,h4{
-  color: #eca400;
-}
-li, p, td{
-  color: #eaf8bf;
-}
-th{
-  color: #eaf8bf;
-}
+
 hr{
   border-style: none;
-  height: 1px;
-  background-color: #27476e;
+  border-top-style: dotted;
+  border-width: 5px;
+  border-color: #293241;
+  width: 10%;
+
 }
-em{
-  color: #006992
+h1{
+  color: #fca311;
 }
-a{
-  color: #eaf8bf;
+
+#date{
+  color: #14213d;
 }
+/* End General Elements */
+/* Header Elements */
+.header{
+  background-color: #e5e5e5;
+  padding: 10px;
+}
+.header h1,h4,p{
+  padding-left: 10px;
+}
+/* End Header Elements */
