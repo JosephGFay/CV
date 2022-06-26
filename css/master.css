@@ -1,14 +1,25 @@
 
 body{
-  background-color: #798777;
+  background-color: #001d4a;
   font-family: 'Noto Sans', sans-serif;
 }
 h1,h2,h3,h4{
-  color: #F8EDE3;
+  color: #eca400;
 }
 li, p, td{
-  color: #BDD2B6;
+  color: #eaf8bf;
 }
 th{
-  color: #A2B29F;
+  color: #eaf8bf;
+}
+hr{
+  border-style: none;
+  height: 1px;
+  background-color: #27476e;
+}
+em{
+  color: #006992
+}
+a{
+  color: #eaf8bf;
 }
