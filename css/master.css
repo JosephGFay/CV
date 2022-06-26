@@ -1,1 +1,14 @@
 
+body{
+  background-color: #798777;
+  font-family: 'Noto Sans', sans-serif;
+}
+h1,h2,h3,h4{
+  color: #F8EDE3;
+}
+li, p, td{
+  color: #BDD2B6;
+}
+th{
+  color: #A2B29F;
+}
